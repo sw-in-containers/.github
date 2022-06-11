@@ -5,7 +5,7 @@ repository:
   name: project-template
   description: ":heart: Provides default community health files for the @sw-in-containers organization."
   homepage: https://github.com/sw-in-containers
-  topics: .github, community, health
+  topics: github, community, health
   private: false
   has_issues: true
   has_projects: false
