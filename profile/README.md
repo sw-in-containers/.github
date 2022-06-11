@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Please note that of the projects within this organization are experimental.
+Please note that this organizations projects are experimental.
